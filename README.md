@@ -4,7 +4,7 @@
 # [Welcome](#welcome-to-my-first-public-repository)
 
 
-# [Welcome to my first public repository]
+# Welcome to my first public repository
 
 So far I've learned how to
 1. Get setup with Git and GitHub
@@ -18,3 +18,5 @@ So far I've learned how to
 1. Creating README files
 
 [I learned all this from Code Institute!](http://codeinstitute.net)
+
+![picture Test](https://github.com/Andreaytm/Stream2_Project/blob/master/static/assets/img/classroom.jpg "Testing image - classroom")
